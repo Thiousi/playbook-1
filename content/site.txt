@@ -1,0 +1,80 @@
+Title: Applicant's Playbook
+
+----
+
+Author: PurpleSquirrel Inc.
+
+----
+
+Description: TODO
+
+----
+
+Keywords: Job Seeker,Applications,Job Search
+
+----
+
+Copyright: - © (date: Year) PurpleSquirrel | All right reserved
+
+----
+
+Social-icons:
+
+-
+  social_icon_class: fa-twitter
+  social_icon_name: Twitter
+  social_icon_url: http://twitter.com
+  social_icon_link: https://twitter.com/dawnofpurple
+-
+  social_icon_class: fa-facebook
+  social_icon_name: Facebook
+  social_icon_link: https://www.facebook.com/purplesquirl
+-
+
+  social_icon_class: fa-linkedin
+  social_icon_name: LinkedIn
+  social_icon_link: https://www.linkedin.com/in/earlsquirrel
+
+-
+  social_icon_class: fa-phone
+  social_icon_name: Phone
+  social_icon_link: tel:4154049792
+-
+  social_icon_class: fa-envelope-o
+  social_icon_name: Email
+  social_icon_link: mailto:support@purplesquirrel.io
+
+----
+
+Social-sharing:
+
+-
+  social_icon_class: fa-twitter
+  social_icon_name: Twitter
+-
+  social_icon_class: fa-facebook
+  social_icon_name: Facebook
+
+----
+
+Site-title: Applicant's Playbook
+
+----
+
+Logo: logo.png
+
+----
+
+PSLogo: squirrel.png
+
+----
+
+Favicon: favicon.png
+
+----
+
+Apple-Touch: apple-touch-icon.png
+
+----
+
+Squirrel: squirrel.png

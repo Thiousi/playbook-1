@@ -1,0 +1,40 @@
+Title: Easy does it: self-care
+
+----
+
+Text:
+
+Looking for a job is tough, sometimes even aggravating. You get rejected a lot and ultimately don’t control the outcome. We get it.
+
+That’s why it’s important to take care of yourself. Getting regular sleep, time with loved ones, exercise, healthy eating, and having “fun” are all basic building blocks for your success.
+
+----
+
+Get-personal: Now’s the time to be in touch with friends and family. Attend a baseball game with a colleague you haven’t seen in a while. Schedule a day trip with your kids outside home. Go out, be active, and have fun! These basic suggestions are effective.
+
+----
+
+Links:
+
+-
+  link_name: 5 Ways to Integrate Self-Care Into Your Job Search
+  link_pic: logo.png
+  link_url: http://www.huffingtonpost.com/elizabeth-c-medlin/five-ways-to-integrate-se_b_9631122.html
+  link_text: Some great tips from the Huffington Post.
+-
+  link_name: Top Tips For Self-Care During The Job Search
+  link_pic: logo.png
+  link_url: http://www.pathfindercareers.com/blog/2010/top-tips-for-self-care-during-the-job-search/
+  link_text: Job search blog with simple, yet important, tips and reminders.
+
+----
+
+Headpic: header.jpg
+
+----
+
+Cover: pic01.jpg
+
+----
+
+Style: 4

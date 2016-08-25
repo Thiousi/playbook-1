@@ -1,0 +1,61 @@
+Title: Create my resume
+
+----
+
+Text: 
+
+A resume is the opportunity to tell about your past professional experiences and tell what skills you’ll bring to the new job. 
+
+Think of the resume as a personal advertisement - you’re selling yourself. It won’t get you the job, but it will open the door for conversations with the employer. 
+
+How to submit the job application? Do two things - 1) Send your resume & cover letter directly to the hiring manager, preferably with help from a company insider.  2) Apply online. At companies with an internal referral system, it's better if an insider submits on your behalf. It's important to do both.
+
+**Also, now’s a good time to re-read the (link: http://playbook.work/getpersonal text: Get personal!) introduction. **Lots of job seekers obsess about making the “perfect” resume, but they forget it’s just one part of the job search process. Ultimately, you’ll get the job through quality interactions with real people.
+
+----
+
+Get-personal: Start by asking a good writer to review your resume - to make sure your ideas are clear and concise. This could be a career coach, recruiter, or even a friend who’s good at writing. If possible, then ask someone at the company / department of interest to take a look as well - to make sure it resonates with your target audience. Don’t be afraid to ask - people love to help!
+
+----
+
+Links: 
+
+- 
+  link_text: >
+    Comprehensive resume tips from Rollins
+    University. Start here.
+  link_name: Writing a Resume
+  link_url: >
+    http://www.rollins.edu/career-life-planning/resumes-and-cover-letters/resume-format.html
+  link_pic: logo.png
+- 
+  link_text: Great list of resume basics from Forbes.
+  link_name: "The Only Resume Advice You'll Ever Need"
+  link_url: >
+    http://www.forbes.com/sites/trudysteinfeld/2012/06/06/the-only-resume-advice-youll-ever-need/
+  link_pic: logo.png
+- 
+  link_text: >
+    Analyze how well your resume matches the
+    job description.
+  link_name: JobScan.co Resume Optimization
+  link_url: https://www.jobscan.co/
+  link_pic: logo.png
+- 
+  link_text: '**Tip!** Find resume examples in your industry. Do a Google search “Top [Role] Resumes” to get a list of ~20 (usually) good examples of resumes for your target job.'
+  link_name: Google resume examples
+  link_url: >
+    http://www.google.com/search?q=top+accountant+resumes
+  link_pic: logo.png
+
+----
+
+Headpic: header.jpg
+
+----
+
+Cover: pic01.jpg
+
+----
+
+Style: 2

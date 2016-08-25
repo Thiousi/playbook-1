@@ -1,0 +1,48 @@
+Title: Write my cover letter
+
+----
+
+Text: 
+
+A cover letter is the opportunity to introduce yourself and let your personality shine. Think of it this way - the resume tells “what” you’ve done, and the cover letter tells “why”. Why you like this job, why you like the company, why they should read your resume. It makes you human.
+
+Do you really need a cover letter? There’s plenty of debate on the topic. But setting yourself apart from the crowd and showing your “human” side can only help.
+
+----
+
+Get-personal: Start by asking a good writer to review your cover letter - to make sure your ideas are clear and concise. This could be a career coach, recruiter, or even a friend who’s good at writing. If possible, then ask someone at the company / department of interest to take a look as well - to make sure it resonates with your target audience. Don’t be afraid to ask - people love to help!
+
+----
+
+Links: 
+
+- 
+  link_text: Detailed cover letter checklist.
+  link_name: 'Writing Cover Letters&colon; Cover Letter Checklist'
+  link_url: >
+    https://www.livecareer.com/quintessential/cover-letter-checklist
+  link_pic: logo.png
+- 
+  link_text: Top cover letter tips from NerdWallet.
+  link_name: 'Expert Advice&colon; 8 Tips for Writing a Standout Cover Letter'
+  link_url: >
+    https://www.nerdwallet.com/blog/loans/student-loans/expert-advice-8-tips-writing-standout-cover-letter/
+  link_pic: logo.png
+- 
+  link_text: '**Tip!** Find cover letter examples in your industry. Do a Google search “Top [Role] Cover Letters” to get a list of ~20 (usually) good examples of resumes for your target job.'
+  link_name: Google cover letter examples
+  link_url: >
+    http://www.google.com/search?q=top+accountant+cover+letters
+  link_pic: logo.png
+
+----
+
+Headpic: header.jpg
+
+----
+
+Cover: pic01.jpg
+
+----
+
+Style: 1

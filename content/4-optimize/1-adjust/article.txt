@@ -1,0 +1,52 @@
+Title: Adjust my job search strategy
+
+----
+
+Text: There’s no single “right” way to look for a job. It looks a little different for each of us and evolves over time. What matters - continually evaluate how well you’re using time. Evaluate what’s working well, and do more of it. Eliminate the strategies that aren’t working well, and replace them with something else.
+
+----
+
+Get-personal: Ask a trusted professional mentor, colleague, or (link: https://hbr.org/2015/03/find-the-career-coach-whos-right-for-you text: career coach) to help evaluate your job search. Use the resources above as a guide. This person needn’t be an “expert” per se. Discussing your strategy with someone who’s not living your job search every day can be really helpful.
+
+----
+
+Links: 
+
+- 
+  link_text: >
+    List of common issues job seekers
+    encounter.
+  link_name: Common Job Search Problems
+  link_url: >
+    http://www.careeronestop.org/JobSearch/Tips/not-getting-results.aspx
+  link_pic: logo.png
+- 
+  link_text: >
+    More common issues job seekers
+    encounter.
+  link_name: When Your Job Search Isn’t Working.
+  link_url: >
+    http://www.workwonderscoaching.com/whenyourjobsearchisntworking/
+  link_pic: logo.png
+- 
+  link_text: >
+    Some numbers and metrics to gauge your
+    job search.
+  link_name: >
+    7 Critical Indicators to Evaluate Your
+    Job Search
+  link_url: >
+    http://personaltouchcareerservices.com/7-critical-indicators-to-evaluate-your-job-search
+  link_pic: logo.png
+
+----
+
+Headpic: header.jpg
+
+----
+
+Cover: pic01.jpg
+
+----
+
+Style: 1

@@ -1,0 +1,53 @@
+Title: Find open jobs online
+
+----
+
+Text: There are tons of places to find open jobs online. Check out some of our favorite spots.
+
+----
+
+Get-personal: You can search for (link: http://www.careeronestop.org/localhelp/americanjobcenters/find-american-job-centers.aspx text: job centers) in your local area. Most public libraries also offer help searching job postings - visit your local library for more information.
+
+----
+
+Links: 
+
+- 
+  link_text: >
+    Arguably the most comprehensive source
+    of online job postings.
+  link_name: Indeed.com
+  link_url: http://www.indeed.com/
+  link_pic: logo.png
+- 
+  link_text: >
+    Tips and tricks to use Indeed.com job
+    search.
+  link_name: Indeed.com Job Seeker Support
+  link_url: http://support.indeed.com/hc/en-us
+  link_pic: logo.png
+- 
+  link_text: Another good source of open jobs.
+  link_name: LinkedIn Jobs
+  link_url: https://www.linkedin.com/jobs
+  link_pic: logo.png
+- 
+  link_text: >
+    How to use LinkedIn to find job
+    postings.
+  link_name: Job Searching on LinkedIn
+  link_url: >
+    https://www.linkedin.com/help/linkedin/answer/151
+  link_pic: logo.png
+
+----
+
+Headpic: header.jpg
+
+----
+
+Cover: pic01.jpg
+
+----
+
+Style: 1

@@ -1,0 +1,60 @@
+Title: Prepare for my job interview
+
+----
+
+Text: 
+
+There’s no magic to a successful interview - it’s all about preparation. Which is why we’ve included interview preparation as a separate section in the Playbook.
+
+Start by asking your contact what to expect during the interview. Phone screen? Behavior-based interview questions? Panel interview? Case interview? Skills test? Your preparation will look a little different for each.
+
+----
+
+Get-personal: Start by asking the recruiter or a current employee what you can expect - anyone who’s “been there” before. Ask for advice how you can prepare. Then, ask for a practice interview. If you’ve been told to expect a behavior-based interview, ask a career coach or hiring manager in the industry to give you a mock interview with feedback.
+
+----
+
+Links: 
+
+-
+    link_text: Comprehensive guide to different interview types and how to master each. Start here.
+    link_name: 10 Types of Interviews (and How to Ace Them)
+    link_url: https://www.themuse.com/advice/10-types-of-interviews-and-how-to-ace-them
+    link_pic: logo.png
+-
+    link_text: Learn how to ace the “phone screen”, a brief phone interview (usually with a recruiter / HR) designed to weed out candidates.
+    link_name: Mastering the Phone Screen.
+    link_url: https://www.wetfeet.com/articles/mastering-the-phone-screening
+    link_pic: logo.png
+-
+    link_text: Read about real interview experiences at your target company.
+    link_name: Glassdoor Interview Questions & Answers.
+    link_url: https://www.glassdoor.com/Interview/index.htm
+    link_pic: logo.png
+-
+    link_text: Top interview questions every job seeker should be ready to answer.
+    link_name: Most Common Job Interview Questions
+    link_url: http://www.businessinsider.com/common-job-interview-questions-2016-5
+    link_pic: logo.png
+-
+    link_text: How to research the organization.
+    link_name: Job Interview Checklist&colon; Company Research
+    link_url: http://www.prepary.com/job-interview-checklist-company-research/
+    link_pic: logo.png
+-
+    link_text: **Tip!**  Get interview question examples in your job/industry. Do a Google search “Top [Role] Interview Questions” to get a list of good examples.
+    link_name: Google interview questions
+    link_url: http://www.google.com/search?q=accountant+job+interview+questions
+    link_pic: logo.png
+
+----
+
+Headpic: header.jpg
+
+----
+
+Cover: pic01.jpg
+
+----
+
+Style: 3

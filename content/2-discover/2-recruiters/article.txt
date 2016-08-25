@@ -1,0 +1,54 @@
+Title: Discover jobs through recruiters
+
+----
+
+Text: 
+
+Up to 70% of open jobs never get posted online. How to find these jobs? Reach out and develop connections with recruiters in your field of interest. It’s their job to help hiring managers find qualified candidates, and they hear about these “unposted” jobs all day long.
+
+There are 2 types of recruiters - internal and external. Internal recruiters (corporate recruiters) are company employees who help hiring managers screen applicants. External recruiters (headhunters) find candidates for a fee, paid by the employer. Sometimes they work together. Which is right for you? It depends. Check out the resources to discover more.
+
+----
+
+Get-personal: To find external recruiters (headhunters), try contacting a job center in your local area. To find internal (corporate) recruiters, search on LinkedIn or ask a company employee.
+
+----
+
+Links: 
+
+- 
+  link_text: >
+    Learn more about the differences between
+    internal and external recruiters.
+  link_name: Headhunters vs. Internal Recruiters
+  link_url: >
+    http://smallbusiness.chron.com/headhunters-vs-internal-recruiter-775.html
+  link_pic: logo.png
+- 
+  link_text: >
+    Tips how to work with internal
+    recruiters.
+  link_name: Internal Recruiters
+  link_url: >
+    http://www.workcoachcafe.com/2012/03/12/how-to-work-with-internal-recruiters/
+  link_pic: logo.png
+- 
+  link_text: >
+    Tips how to work with external
+    recruiters.
+  link_name: External Recruiters
+  link_url: >
+    http://www.workcoachcafe.com/2012/03/19/how-to-work-with-external-recruiters/
+  link_pic: logo.png
+
+----
+
+Headpic: header.jpg
+
+----
+
+Cover: pic01.jpg
+
+----
+
+Style: 2

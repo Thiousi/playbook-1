@@ -1,0 +1,23 @@
+Title: Home
+
+----
+
+Head-title: Welcome
+
+----
+
+Head-text: 
+
+Looking for a job can be a frustrating experience. We know. There's lots of complicated, contradictory advice out there.
+
+That's why we created the Job Seeker's Playbook.  It's a simple job search guide that features only the best resources.
+
+Our #1 tip? (link: http://playbook.work/getpersonal text: **Get personal! Involve real people in your job search as much as possible.** (Click to learn more.))
+
+----
+
+End-text: 
+
+You can jump right into one of our chapters by clicking one of the chapters below. For updates, follow us on Social Media and register for our monthly Jobletter.
+
+Have a suggestion? Great! Please let us know. (link: https://standout.typeform.com/to/BwEDMK text:Let us know.)

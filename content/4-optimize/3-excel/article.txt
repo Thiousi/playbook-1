@@ -1,0 +1,51 @@
+Title: Excel in the first 90 days
+
+----
+
+Text: 
+
+Congrats, you landed the job! 
+
+So now what? There’s work to do! You only get benefit of the doubt as the “newbie” for a short time, so it’s important to be intentional how you spend the first weeks and months on the job. First impressions matter and sometimes follow us for a long, long time.
+
+----
+
+Get-personal: More than anything, the first 90 days is about paying close attention to relationships with your co-workers and navigating the new environment. Probably more important than the job itself. Find a mentor or colleague both in and outside the organization to talk about what’s happening. Also see our section (link: http://playbook.work/optimize/mentor text: Network and Mentor for Long-Run Success).
+
+----
+
+Links: 
+
+- 
+  link_name: The First 90 Days
+  link_pic: logo.png
+  link_url: https://www.amazon.com/dp/1422188612
+  link_text: 'The time-tested resource to start your new job well is *The First 90 Days* by Michael Watkins.'
+- 
+  link_name: Interview with Michael Watkins
+  link_pic: logo.png
+  link_url: 'http://www.forbes.com/sites/learnvest/2014/06/11/how-to-ace-your-new-job-in-the-first-90-days/2/#762e783f205c'
+  link_text: >
+    Forbes interview with the author
+    highlights how to get off on the right
+    foot.
+- 
+  link_name: >
+    10 Ways To Make The Most Of Your First
+    Month At A New Job
+  link_pic: logo.png
+  link_url: >
+    http://www.fastcompany.com/3044955/hit-the-ground-running/10-ways-to-make-the-most-of-your-first-month-at-a-new-job
+  link_text: 'Some more great ideas published in *Fast Company* magazine.'
+
+----
+
+Headpic: header.jpg
+
+----
+
+Cover: pic01.jpg
+
+----
+
+Style: 3

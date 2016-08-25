@@ -1,0 +1,74 @@
+Title: Network and mentor for long-run success
+
+----
+
+Text: 
+
+You already know that involving real people in your job search (networking) is really important. (link: http://playbook.work/getpersonal text: Get personal!) is the Playbook’s central theme.
+
+At first, your networking might be more surface-level than deep, more “taking” than “giving”. That’s OK. The job search necessitates asking for help, and we’ve all been there before.
+
+In the long run, though, your success depends on building and maintaining genuine relationships with people in your professional community. More “giving” than “taking” and making time for regular contact. It takes time to develop and nurture those professional relationships, and it’s worth it because people like doing business with people they trust.
+
+----
+
+Get-personal: When it comes to networking for the long-run, there’s no replacement to just doing it. You have to start somewhere. Start by thinking all the people in your life. Who’s the “connector” continually bringing people together? Go ask that person how they do it.
+
+----
+
+Links: 
+
+- 
+  link_name: Definition of Professional Networking
+  link_pic: logo.png
+  link_url: >
+    https://www.quora.com/What-is-the-definition-of-professional-networking
+  link_text: >
+    Succinct, well-written definition of
+    professional networking on Quora.
+- 
+  link_name: >
+    Network Effectively for Career
+    Opportunities and Advancement
+  link_pic: logo.png
+  link_url: >
+    http://www.caseinterview.com/career-networking
+  link_text: >
+    2-hour course about the “why” and
+    “how” of professional networking by
+    management guru Victor Cheng. He
+    emphasizes the importance of
+    “giving” more than “taking”. The
+    best take on networking we’ve seen and
+    worth the $47 investment. Not a paid
+    endorsement.
+- 
+  link_name: How Leaders Create and Use Networks
+  link_pic: logo.png
+  link_url: >
+    https://hbr.org/2007/01/how-leaders-create-and-use-networks
+  link_text: 'Networking perspective in this classic *Harvard Business Review* article.'
+- 
+  link_name: Learning to Love Networking
+  link_pic: logo.png
+  link_url: >
+    https://hbr.org/2016/05/learn-to-love-networking
+  link_text: 'Even people who find it repugnant can do it effectively. From *Harvard Business Review*.'
+- 
+  link_name: Learning to Love Networking
+  link_pic: logo.png
+  link_url: >
+    https://hbr.org/2016/05/learn-to-love-networking
+  link_text: 'Even people who find it repugnant can do it effectively. From *Harvard Business Review*.'
+
+----
+
+Headpic: header.jpg
+
+----
+
+Cover: pic01.jpg
+
+----
+
+Style: 5

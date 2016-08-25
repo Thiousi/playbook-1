@@ -1,0 +1,69 @@
+Title: Ace my job interview
+
+----
+
+Text: 
+
+By the time you get to the interview, you’ve already done 90% of the work. (Yes, interview preparation described in the previous section is that important!) 
+
+Now just take care of your physical well being and presence - it’s all about the important basics. Get plenty of rest the night before. Dress appropriately. Eat a healthy meal. Arrive plenty early so you’re not rushed. If it’s a phone interview, find a quiet room well before the interview starts.
+
+During the interview, be polite to everyone you meet. Important - get the names and email addresses of everyone you meet, for “thank you” messages later.
+
+----
+
+Get-personal: Ask someone who knows you well - a friend, acquaintance, or career coach - for tips how to show up your best.
+
+----
+
+Links: 
+
+- 
+  link_text: >
+    How to prepare physically and mentally
+    before your interview. Things like
+    eating well, getting adequate sleep, and
+    visualizing your success are really
+    important.
+  link_name: 24-Hour Countdown to the Job Interview
+  link_url: >
+    https://www.livecareer.com/quintessential/24-hour-interview-countdown
+  link_pic: logo.png
+- 
+  link_text: >
+    How to show up looking your best, for
+    men.
+  link_name: 'Interview Dress Tips - Men'
+  link_url: >
+    https://www.themuse.com/advice/looks-that-land-the-job-the-guys-guide-to-interview-attire
+  link_pic: logo.png
+- 
+  link_text: >
+    How to show up looking your best, for
+    women.
+  link_name: 'Interview Dress Tips - Women'
+  link_url: >
+    https://www.themuse.com/advice/looks-that-land-the-job-what-to-wear-to-any-interview
+  link_pic: logo.png
+- 
+  link_text: >
+    How to follow up after the job interview
+    is over.
+  link_name: >
+    4 Non-Annoying Ways to Follow Up After
+    an Interview
+  link_url: >
+    http://www.forbes.com/sites/dailymuse/2012/05/30/4-non-annoying-ways-to-follow-up-after-an-interview/
+  link_pic: logo.png
+
+----
+
+Headpic: header.jpg
+
+----
+
+Cover: pic01.jpg
+
+----
+
+Style: 4

@@ -1,0 +1,48 @@
+Title: Find jobs in my “network”
+
+----
+
+Text: 
+
+As noted in the last section, up to 70% of open jobs are never posted online. How do you find these jobs? Reach out to employees who work in the companies and departments of interest to you. Even if there’s no job opening today, that’s OK. They might tell you when a job does become available, and maybe even jobs at other companies & departments.
+
+Don’t forget - tell people you’re looking for a job. Should you actually “ask” them for a job? It depends. As we noted in the Get Personal section, you’ll inevitably make mistakes, and that’s OK.
+
+----
+
+Get-personal: The resources above are a great way to develop your networking skills. Networking events in your field can be a great way to meet people in your field; (link: https://www.eventbrite.com/ text: Eventbrite) is a good place to find events. Check out (link: http://meetup.com text: Meetup.com) for professional groups in your area. Business card exchanges offered by your local (link: https://www.uschamber.com/amcham-directory text: Chamber of Commerce) can be a great place to “practice” in a low-risk setting.
+
+----
+
+Links: 
+
+- 
+  link_text: >
+    A good overview of networking and how to
+    connect with people who might know about
+    jobs. A softer, less direct approach.
+  link_name: Why Network
+  link_url: >
+    http://www.careeronestop.org/JobSearch/Network/why-network.aspx
+  link_pic: logo.png
+- 
+  link_text: >
+    This Forbes article offers tips to find
+    decisionmakers and ask for a job. A more
+    direct, sales approach.
+  link_name: Shortest Route to a New Job
+  link_url: >
+    http://www.forbes.com/2010/09/28/direct-contact-job-seeking-leadership-careers-employment_slide.html
+  link_pic: logo.png
+
+----
+
+Headpic: header.jpg
+
+----
+
+Cover: pic01.jpg
+
+----
+
+Style: 3

@@ -1,0 +1,65 @@
+Title: Identify my target jobs and organizations
+
+----
+
+Text: 
+
+Before you begin your job search, it’s really important to identify the job titles and organizations that fit your personal skills, needs, dreams, and passions. 
+
+It’s helpful to do this in 2 steps.
+
+**$$$INSERT the identify.png  IN THIS SPOT$$$
+**
+**Step #1** - Identify your personal success factors. Success and happiness at work is about more than job title or salary. 
+
+What are “personal success factors”? Author Richard N. Bolles describes 7 work characteristics that lead to job satisfaction in his book “What Color Is Your Parachute,” the time-tested resource for this self-discovery process.
+
+Start by filling out the 1-page “Flower Exercise” to identify your success factors in these 7 categories. Read the instructions in “What Color Is Your Parachute”. **Don’t skip the instructions!** You can find older editions on Amazon for $5.00 or less.
+
+**Step #2** - Find job titles and organizations that fit your “personal success factors”.
+
+----
+
+Get-personal: Sometimes the best way to find answers is to just ask someone. It’s called (link: http://www.careeronestop.org/JobSearch/Network/informational-interviews.aspx text: informational interviewing) at this stage of your job search. You can also find a (link: https://hbr.org/2015/03/find-the-career-coach-whos-right-for-you text: career coach) or find a local (link: http://www.careeronestop.org/localhelp/americanjobcenters/find-american-job-centers.aspx text: job center) to help you work through this self-discovery process.
+
+----
+
+Links: 
+
+- 
+  link_text: 'Step 1 - Fill out the 1-page Flower Exercise from "What Color Is Your Parachute" by Richard N. Bolles.'
+  link_name: Flower Exercise
+  link_url: >
+    http://content.randomhouse.com/assets/9781607741480/pdfs/Theflower.pdf
+  link_pic: logo1.png
+- 
+  link_text: 'Step 2 - Research job titles and job descriptions.'
+  link_name: ONET Online
+  link_url: http://www.onetonline.org/
+  link_pic: logo2.png
+- 
+  link_text: 'Step 2 - Employer research. Learn about companies, read employee reviews, and research salary data.'
+  link_name: Glassdoor
+  link_url: https://www.glassdoor.com/index.htm
+  link_pic: logo3.png
+- 
+  link_text: >
+    (Optional) Helps you do both Step 1 and
+    Step 2 with an easy questionnaire. $4.99
+    per year. Based on “What Color Is Your
+    Parachute” by Richard Nelson Bolles.
+  link_name: eParachute
+  link_url: http://eparachute.com/
+  link_pic: logo4.png
+
+----
+
+Headpic: header.jpg
+
+----
+
+Cover: pic01.jpg
+
+----
+
+Style: 1

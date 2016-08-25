@@ -1,0 +1,52 @@
+Title: Create my online brand
+
+----
+
+Text: 
+
+First impressions count, and in today’s world those impressions are formed online. LinkedIn is the de facto professional social media platform, and your presence on other sites like Twitter, Facebook, and Reddit matters, too. Creative professionals design online portfolios to showcase their work.
+
+Ask two important questions to guide your online presence strategy:
+1) Who is my target audience?
+2) What first impressions do I want to create?
+
+----
+
+Get-personal: Ask a few members of your “target audience” to review your online presence. Applying to engineering jobs? Get input from a technical recruiter and an engineering manager. Marketing roles? Ask a marketing director. (link: http://www.careeronestop.org/jobsearch/network/informational-interviews.aspx text: Informational interviews) are a great way to ask for this feedback.
+
+----
+
+Links: 
+
+-
+    link_text: Good visual checklist to make sure you’ve got the basics covered. Marketed to college students, but a helpful visual for everyone.
+    link_name: LinkedIn University - Profile Checklist
+    link_url: https://university.linkedin.com/content/dam/university/global/en_US/site/pdf/LinkedIn%20Profile%20Checklist%20-%20College%20Students.pdf
+    link_pic: logo.png
+-
+    link_text: Another great checklist from LinkedIn.
+    link_name: LinkedIn Profile Checklist
+    link_url: https://www.themuse.com/advice/how-to-clean-up-your-social-media-during-the-job-search
+    link_pic: logo.png
+-
+    link_text: Make sure all your personal social media profiles are employer-friendly.
+    link_name: Clean up your social media during the job search
+    link_url: https://www.themuse.com/advice/how-to-clean-up-your-social-media-during-the-job-search
+    link_pic: logo.png
+-
+    link_text: If you’re a designer, writer, or other creative professional, learn how to showcase your work online.
+    link_name: Create an online portfolio
+    link_url: http://www.digitalinformationworld.com/2013/11/why-should-you-display-your-work-online-which-portfolio-site-works-best.html
+    link_pic: logo.png
+
+----
+
+Headpic: header.jpg
+
+----
+
+Cover: pic01.jpg
+
+----
+
+Style: 2

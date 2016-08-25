@@ -1,0 +1,59 @@
+Title: Negotiate my job offer
+
+----
+
+Text: Don’t forget to negotiate. Again, don’t forget to negotiate. Why? First, it’s the easiest money you’ll ever make. Second, most employers expect you’ll negotiate. Typically, they’ll offer a lower salary / benefits package than they’re willing to provide. Finally, once you start the job, this golden opportunity is gone forever.
+
+----
+
+Get-personal: Ask a (link: https://hbr.org/2015/03/find-the-career-coach-whos-right-for-you text: career coach) or other skilled negotiator in your life for advice how to do this. Even if it costs some money, there’s a good chance it’s worth it; see link #1 above. The company has people who negotiate job offers all day long. Why shouldn’t you have expert help?
+
+----
+
+Links: 
+
+- 
+  link_text: >
+    Article from Forbes explains why job
+    offer negotiation is so important.
+  link_name: Importance of Salary Negotiation
+  link_url: >
+    http://www.forbes.com/sites/moneybuilder/2011/01/20/the-importance-of-salary-negotiation/
+  link_pic: logo.png
+- 
+  link_text: >
+    Tips “how” to negotiate from Harvard
+    Business Review.
+  link_name: 15 Rules for Negotiating a Job Offer
+  link_url: >
+    https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer
+  link_pic: logo.png
+- 
+  link_text: >
+    Things besides salary you may be able to
+    negotiate.
+  link_name: 'Look Beyond Salary&colon; 6 Benefits to Negotiate After a Job Offer'
+  link_url: >
+    http://money.usnews.com/money/blogs/outside-voices-careers/articles/2016-02-04/look-beyond-salary-6-benefits-to-negotiate-after-a-job-offer
+  link_pic: logo.png
+- 
+  link_text: >
+    Author discusses that most women don’t
+    negotiate salary and how they can do it
+    well.
+  link_name: "Why Women Must Ask (The Right Way)&colon; Negotiation Advice From Stanford's Margaret A. Neale"
+  link_url: >
+    http://www.forbes.com/sites/dailymuse/2013/06/17/why-women-must-ask-the-right-way-negotiation-advice-from-stanfords-margaret-a-neale/
+  link_pic: logo.png
+
+----
+
+Headpic: header.jpg
+
+----
+
+Cover: pic01.jpg
+
+----
+
+Style: 2
